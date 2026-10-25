@@ -1,0 +1,11 @@
+numpy==2.3.5
+pandas==3.0.1
+scipy==1.18.1
+statsmodels==0.15.0
+matplotlib==3.11.2
+openpyxl==3.1.5
+lxml==6.1.1
+pypdf==6.10.0
+reportlab==4.4.9
+Pillow==12.3.0
+pyliftover==0.4.1

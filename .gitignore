@@ -1,0 +1,33 @@
+# Default deny: only code and named documentation are eligible for tracking.
+*
+!*/
+!*.py
+!README.md
+!WORKFLOW.md
+!CITATION.cff
+!requirements.txt
+!requirements-singlecell.txt
+!analysis_plan_CHX.md
+!analysis_plan_NRF1.md
+!analysis_plan_v14.md
+!.gitignore
+
+# Explicitly exclude all inputs, intermediates, results and generated content.
+**/__pycache__/
+**/.venv/
+**/python_packages/
+**/analysis/
+**/metadata/
+**/raw/
+**/downloads/
+**/results/
+**/processed/
+**/figures/
+**/deliverables/
+**/qa/
+**/local_release/
+**/source_data/
+**/.env*
+**/*credential*
+**/*token*
+**/*secret*

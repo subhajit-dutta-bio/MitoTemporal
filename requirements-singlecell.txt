@@ -1,0 +1,10 @@
+# Optional single-cell processing dependencies. Install in a separate suitable environment.
+# Unpinned: not a lockfile for the historical GPU/cluster environment.
+scanpy
+anndata
+scrublet
+scvi-tools
+torch
+threadpoolctl
+leidenalg
+igraph
