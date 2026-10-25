@@ -7,3 +7,6 @@ authors:
     given-names: Subhajit
 repository-code: "https://github.com/subhajit-dutta-bio/MitoTemporal"
 url: "https://github.com/subhajit-dutta-bio/MitoTemporal"
+version: "1.0.0"
+date-released: 2026-10-25
+license: MIT

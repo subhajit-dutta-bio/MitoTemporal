@@ -1,0 +1,21 @@
+{
+  "title": "MitoTemporal: analysis code for mitochondrial import transcription and estrogen receptor activity in breast cancer",
+  "upload_type": "software",
+  "description": "Analysis and plotting code accompanying the manuscript Mitochondrial import transcription tracks estrogen receptor activity in breast cancer. This code-only archive contains scientific scripts, fixed gene-set constants defining scoring algorithms, software requirements, synthetic verification checks and methods documentation. It contains no raw or processed datasets, expression matrices, clinical or sample crosswalks, numerical result tables, figures, manuscripts or reviewer packages. Original public source inputs must be obtained separately from their providers; the repository documentation maps analysis stages and input requirements.",
+  "creators": [
+    {
+      "name": "Dutta, Subhajit",
+      "affiliation": "Department of Biochemistry and Molecular Cell Biology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "breast cancer",
+    "estrogen receptor",
+    "mitochondrial protein import",
+    "TIM/TOM",
+    "endocrine therapy",
+    "transcription"
+  ]
+}

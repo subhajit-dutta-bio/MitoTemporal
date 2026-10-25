@@ -45,4 +45,9 @@ Publication preparation changed machine-specific paths to configurable local pat
 
 ## Citation and archival status
 
-Use [CITATION.cff](CITATION.cff) to cite this code repository and identify the exact commit used. A Zenodo DOI has not yet been assigned; GitHub–Zenodo archiving will be configured separately. No preprint DOI is claimed here.
+Use [CITATION.cff](CITATION.cff) to cite this code repository and identify the exact commit used. Tagged code releases are archived through the GitHub–Zenodo integration. Use the DOI linked from the corresponding release to cite an archived version. No preprint DOI is claimed here.
+
+
+## Licence
+
+The repository code is available under the [MIT License](LICENSE). Separately obtained datasets, annotations and third-party software retain their original terms; no licence to those resources is granted by this repository.
