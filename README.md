@@ -45,7 +45,7 @@ Publication preparation changed machine-specific paths to configurable local pat
 
 ## Citation and archival status
 
-Use [CITATION.cff](CITATION.cff) to cite this code repository and identify the exact commit used. Tagged code releases are archived through the GitHub–Zenodo integration. Use the DOI linked from the corresponding release to cite an archived version. No preprint DOI is claimed here.
+Use [CITATION.cff](CITATION.cff) to cite this code repository and identify the exact commit used. The code-only release **v1.0.0** is archived on Zenodo at [10.5281/zenodo.23639379](https://doi.org/10.5281/zenodo.23639379), under the MIT licence. The archived source commit is `41226d2b6618a180051459b534814ff8fbb8d063`. [All versions](https://doi.org/10.5281/zenodo.23639378) are linked by the concept DOI. The Zenodo archive contains code and supporting documentation/metadata only; no datasets or processed results are deposited. No preprint DOI is claimed here.
 
 
 ## Licence
